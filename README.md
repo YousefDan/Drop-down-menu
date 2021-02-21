@@ -1,2 +1,2 @@
 # Drop-down-menu
-a mini project that contains a drop down menu with animation
+a mini project that contains a drop down menu with animation in css
